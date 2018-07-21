@@ -29,4 +29,8 @@ control its explanatory power. multicollinearlity? correlated/independent?
     - related to tangible information, related to financial capability/industrial knowledge, 
   - Can Words Get in the Way? The Effect of Deliberation in Collective Decision Making
     - deliberation or no communication?
+  - Life Cycle Wage Growth across Countries
+    - explain heterogeneity in X growth rate
+  - Government Spending Multipliers in Good Times and in Bad: Evidence from US Historical Data
+    - multiplier effect on household?
 - 2nd issue, 2018

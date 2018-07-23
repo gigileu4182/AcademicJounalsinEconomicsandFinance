@@ -17,6 +17,11 @@ control its explanatory power. multicollinearlity? correlated/independent?
     - intrahousehold heterogeneity in discount factor leads to inefficient saving behaviors?
   - Ethnolinguistic Favoritism in African Politics
     - Extenality? 
+- second, 2018
+  - (good in the model) Borrowing Trouble? Human Capital Investment with Opt-In Costs and Implications for the Effectiveness of Grant Aid
+  - Do Risk Preferences Change? Evidence from the Great East Japan Earthquake
+    - those who experienced earthquake with higher intensity become more risk tolerant!
+    
 
 ## American Economic Journal: Applied Economics
 

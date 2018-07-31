@@ -6,7 +6,9 @@ control its explanatory power. multicollinearlity? correlated/independent?
 信息的一次处理和二次整理。
 
 ## QJE
-
+- issue 1, 2018
+  - Ban the Box, Criminal Records, and Racial Discrimination: A Field Experiment 
+    - the point is that, prohibiting intensive margin (at the stage of interview) is transimitted to extensive margin (give it a chance to have a look or not) ...
 
 
 ## American Economic Journal: Applied Economics

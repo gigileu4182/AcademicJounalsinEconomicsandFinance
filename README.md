@@ -5,6 +5,10 @@ https://ideas.repec.org/top/top.journals.all.html
 control its explanatory power. multicollinearlity? correlated/independent?
 信息的一次处理和二次整理。
 
+##### temporary: 
+https://ideas.repec.org/f/ppe586.html (household economics questions survey anticipation expectation)
+
+
 ## QJE
 - issue 1, 2018
   - Ban the Box, Criminal Records, and Racial Discrimination: A Field Experiment 

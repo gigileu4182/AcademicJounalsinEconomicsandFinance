@@ -15,7 +15,7 @@ https://ideas.repec.org/f/ppe586.html (household economics questions survey anti
     - the point is that, prohibiting intensive margin (at the stage of interview) is transimitted to extensive margin (give it a chance to have a look or not) ...
 
 
-## American Economic Journal: Applied Economics
+## American Economic Journal: Applied Economics ("american economic journal: applied economics" on google scholar)
 
 - July, 2018
   - Saving by Default: Evidence from a Field Experiment in Rural India

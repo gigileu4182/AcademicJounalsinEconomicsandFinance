@@ -1,6 +1,3 @@
-https://www.w3schools.com/html/html_lists.asp
-
-
 ## ___
 <h3> ** observational/measurement error ** </h3>
 <ol>
@@ -91,3 +88,12 @@ Some references:
   <li></li>
   <li></li>
 </ul>
+
+
+## References..
+https://www.w3schools.com/html/html_lists.asp
+- Very good introduction to text classification with Naive Bayes, many resources
+  <ul>
+    <li> https://sebastianraschka.com/Articles/2014_naive_bayes_1.html </li>
+  </ul> 
+-   

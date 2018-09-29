@@ -47,6 +47,8 @@ Some references:
 
 <h3>missing data</h3>
 
+- (keywords: longitudinal data unbalanced web visit) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5633048/
+
 ## ___
 <h3>outliers/influential points</h3>
 
